@@ -1,0 +1,1 @@
+ D:\\Insigth\ Pro\\.dart_tool\\flutter_build\\e44924a19033c6e3205e9c4a082cb02f\\native_assets.yaml: 
